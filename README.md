@@ -3,7 +3,7 @@ various methods which can be used with BigInteger Object
 1> **BigInteger()**  
 &nbsp;&nbsp;&nbsp;&nbsp; default constructor: it intializes the BigInteger to 0    
 2> **BigInteger(string s)**	   
-&nbsp;&nbsp;&nbsp;&nbsp; parametrized constructor: it intializes the BigInteger with string passed as parameter  
+&nbsp;&nbsp;&nbsp;&nbsp; parametrized constructor: it intializes the BigInteger with string passed as parameter    
 3> **string getBigInteger()**   
 &nbsp;&nbsp;&nbsp;&nbsp; it returns BigInteger as string  
 4> **int size()**	  
