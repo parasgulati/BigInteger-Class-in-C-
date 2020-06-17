@@ -1,6 +1,7 @@
 # BigInteger-Class-in-C-
 various methods which can be used with BigInteger Object  
-1> **BigInteger()**	//	default constructor: it intializes the BigInteger to 0  
+1> **BigInteger()**  
+&nbsp;&nbsp;&nbsp;default constructor: it intializes the BigInteger to 0  
 2> **BigInteger(string s)**	// parametrized constructor: it intializes the BigInteger with string passed as parameter  
 3> **string getBigInteger()** // it returns BigInteger as string  
 4> **int size()**				// returns size of the BigInteger  
